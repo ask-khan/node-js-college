@@ -1,3 +1,20 @@
 {"level":"info","message":"Inside /","timestamp":"2017-03-21T20:28:13.729Z"}
 {"level":"info","message":"Inside /","timestamp":"2017-03-21T20:28:33.363Z"}
 {"level":"info","message":"Inside /","timestamp":"2017-03-21T20:29:05.072Z"}
+{"level":"info","message":"Inside /","timestamp":"2017-03-23T16:28:22.250Z"}
+{"level":"info","message":"Inside /","timestamp":"2017-03-23T17:35:22.982Z"}
+{"level":"info","message":"Inside /","timestamp":"2017-03-23T17:35:23.173Z"}
+{"level":"info","message":"Inside /","timestamp":"2017-03-23T17:35:23.322Z"}
+{"level":"info","message":"Inside /","timestamp":"2017-03-23T17:35:23.463Z"}
+{"level":"info","message":"in getClient (clientId: 123, clientSecret: riksof123)","timestamp":"2017-03-23T19:49:47.435Z"}
+{"level":"info","message":"in grantTypeAllowed (clientId: 123, grantType: client_credentials)","timestamp":"2017-03-23T19:49:47.472Z"}
+{"level":"info","message":"in saveAccessToken (token: 3fdc61dc4778dc57ff5272902d74606d6fea16f6, clientId: 123, userId: true, expires: Sun Apr 23 2017 00:49:47 GMT+0500 (PKT))","timestamp":"2017-03-23T19:49:47.477Z"}
+{"level":"info","message":"in getClient (clientId: 123, clientSecret: riksof123)","timestamp":"2017-03-23T19:50:19.590Z"}
+{"level":"info","message":"in grantTypeAllowed (clientId: 123, grantType: client_credentials)","timestamp":"2017-03-23T19:50:19.598Z"}
+{"level":"info","message":"in saveAccessToken (token: 35e177375a31fd102e555378edf9a1b98ef9a489, clientId: 123, userId: true, expires: Sun Apr 23 2017 00:50:19 GMT+0500 (PKT))","timestamp":"2017-03-23T19:50:19.598Z"}
+{"level":"info","message":"in getClient (clientId: 123, clientSecret: riksof123)","timestamp":"2017-03-23T19:50:21.394Z"}
+{"level":"info","message":"in grantTypeAllowed (clientId: 123, grantType: client_credentials)","timestamp":"2017-03-23T19:50:21.398Z"}
+{"level":"info","message":"in saveAccessToken (token: 6a27c5f9e3c683be6029c970c9ca6bc2c2c6014e, clientId: 123, userId: true, expires: Sun Apr 23 2017 00:50:21 GMT+0500 (PKT))","timestamp":"2017-03-23T19:50:21.399Z"}
+{"level":"info","message":"in getClient (clientId: 123, clientSecret: riksof123)","timestamp":"2017-03-23T19:50:22.404Z"}
+{"level":"info","message":"in grantTypeAllowed (clientId: 123, grantType: client_credentials)","timestamp":"2017-03-23T19:50:22.408Z"}
+{"level":"info","message":"in saveAccessToken (token: 55d57656d6d2c21eb3fd5c1eebb29b0e9bc671e1, clientId: 123, userId: true, expires: Sun Apr 23 2017 00:50:22 GMT+0500 (PKT))","timestamp":"2017-03-23T19:50:22.409Z"}
