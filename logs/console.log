@@ -18,3 +18,17 @@
 {"level":"info","message":"in getClient (clientId: 123, clientSecret: riksof123)","timestamp":"2017-03-23T19:50:22.404Z"}
 {"level":"info","message":"in grantTypeAllowed (clientId: 123, grantType: client_credentials)","timestamp":"2017-03-23T19:50:22.408Z"}
 {"level":"info","message":"in saveAccessToken (token: 55d57656d6d2c21eb3fd5c1eebb29b0e9bc671e1, clientId: 123, userId: true, expires: Sun Apr 23 2017 00:50:22 GMT+0500 (PKT))","timestamp":"2017-03-23T19:50:22.409Z"}
+{"level":"info","message":"hello","timestamp":"2017-03-24T21:07:46.116Z"}
+{"level":"info","message":"hello","timestamp":"2017-03-24T21:09:32.767Z"}
+{"level":"info","message":"hello","timestamp":"2017-03-24T21:09:54.972Z"}
+{"level":"info","message":"Insert data","timestamp":"2017-03-24T21:10:12.767Z"}
+{"level":"info","message":"Insert data","timestamp":"2017-03-24T21:10:55.780Z"}
+{"level":"info","message":"Insert data","timestamp":"2017-03-24T21:18:15.742Z"}
+{"level":"info","message":"Insert data","timestamp":"2017-03-24T21:19:09.077Z"}
+{"level":"info","message":"Insert data","timestamp":"2017-03-24T21:19:26.373Z"}
+{"level":"info","message":"Insert data","timestamp":"2017-03-24T21:21:04.879Z"}
+{"level":"info","message":"Insert data","timestamp":"2017-03-24T21:21:54.524Z"}
+{"level":"info","message":"Insert data","timestamp":"2017-03-24T21:24:09.985Z"}
+{"level":"info","message":"Insert data","timestamp":"2017-03-24T21:25:05.806Z"}
+{"level":"info","message":"Insert data","timestamp":"2017-03-24T21:27:58.025Z"}
+{"level":"info","message":"Save Suceesfully.","timestamp":"2017-03-24T21:27:58.061Z"}
