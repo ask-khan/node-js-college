@@ -1,3 +1,4 @@
 module.exports = Object .freeze({
-  RUNING: 'Sucessfully Runing'
+  RUNING: 'Sucessfully Runing.',
+  NOT_RUNING: 'Not Runing Sucessfully.'
 })
